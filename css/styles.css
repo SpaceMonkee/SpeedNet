@@ -256,8 +256,8 @@ nav ul li:hover ul {
         font-family: 'PT Sans', sans-serif;
         position: relative;
         width: 30%;
-        left: 5%;
-        top: -720px;
+        left: 5vw;
+        top: -220vh;
         text-align: left;
         float: left;
         clear: both;
